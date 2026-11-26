@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LogHub/LogHub.csproj" />
+  <Project Path="LogHubTests/LogHubTests.csproj" />
+</Solution>
